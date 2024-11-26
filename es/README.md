@@ -110,6 +110,3 @@ Consulta el archivo `CONTRIBUTING.md` para más detalles sobre cómo contribuir.
 
 Este proyecto está licenciado bajo la licencia MIT. Para más detalles, consulta el archivo `LICENSE`.
 
----
-
-¿Te gustaría que amplíe alguno de los temas o incluya algún ejemplo más específico? 😊
