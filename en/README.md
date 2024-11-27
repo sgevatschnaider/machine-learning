@@ -108,8 +108,9 @@ machine-learning-research/
 - [Probabilidad y Estadística en ML](notebooks/es/Probabilidad_y_Estadística_ML.ipynb): Introducción a conceptos de probabilidad para Machine Learning.
 
 ### **English**
-- [Statistics and EDA](notebooks/en/Statistics_EDA.ipynb): Introduction to exploratory data analysis and statistics.
-- [Natural Language Reinforcement Learning (NLRL)](notebooks/en/Natural_Language_Reinforcement_Learning_(NLRL).ipynb): Applying reinforcement learning in natural language tasks.
+- [Statistics and EDA](https://github.com/sgevatschnaider/machine-learning/blob/main/en/notebooks/Statistics_EDA.ipynb): Introduction to exploratory data analysis and statistics.
+- [Natural Language Reinforcement Learning (NLRL)](https://github.com/sgevatschnaider/machine-learning/blob/main/en/notebooks/Natural_Language_Reinforcement_Learning_(NLRL)_Making_AI_More_Understandable.ipynb): Applying reinforcement learning in natural language tasks.
+
 
 ---
 
