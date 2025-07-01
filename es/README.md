@@ -12,9 +12,6 @@ Este repositorio reúne conceptos, prácticas y ejemplos de código para entende
 La animación anterior muestra una red neuronal artificial entrenándose en tiempo real. Las capas densas (fully connected) reciben y propagan señales a través de sus nodos, y los pesos se ajustan continuamente durante el proceso de retropropagación. A la derecha se observan métricas clave del entrenamiento, incluyendo la precisión (`accuracy`), la función de pérdida (`loss`) y el número de épocas (`epochs`) ya completadas. Esta representación visual es ideal para comprender intuitivamente el aprendizaje profundo y cómo evolucionan los modelos a lo largo del tiempo.
 
 ---
-
----
-
 ## **Contenido**
 1. [Fundamentos de Machine Learning](#1-fundamentos-de-machine-learning)
 2. [Modelos Clásicos de Machine Learning](#2-modelos-clásicos-de-machine-learning)
