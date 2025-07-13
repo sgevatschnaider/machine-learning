@@ -123,15 +123,6 @@ Esta sección contiene notebooks teóricos y conceptuales que establecen las bas
 | 📄 Recurso | 📥 Acceso |
 | :--- | :--- |
 | **Notebook: Introducción al Machine Learning** <br><br> <details><summary><strong>Resumen:</strong> <em>(haz clic para expandir/colapsar)</em></summary><p>Este notebook proporciona una introducción conceptual al campo del Machine Learning. Define qué es, explora sus aplicaciones prácticas y distingue entre los principales tipos de aprendizaje (supervisado, no supervisado y por refuerzo). Además, introduce la terminología fundamental como modelos, características (features) y etiquetas (labels), sentando las bases teóricas para el estudio de algoritmos más complejos.</p></details> | <a href="https://github.com/sgevatschnaider/machine-learning/blob/1e243455df8027e527fc903191626af477132439/notebooks/es/Machine_Learning_Introducci%C3%B3n_a_la_materia_.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ver%20en-GitHub-blue?style=for-the-badge&logo=github" alt="Ver en GitHub"></a> <a href="https://colab.research.google.com/github/sgevatschnaider/machine-learning/blob/main/notebooks/es/Machine_Learning_Introducci%C3%B3n_a_la_materia_.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
-## **Notebooks**
-
-### **Español**
-- [Estadística y Paradigma EDA](notebooks/es/Estadística_Paradigma_EDA_y_p.ipynb): Exploración de datos y estadística.
-- [Aprendizaje por Refuerzo en Lenguaje Natural (NLRL)](https://github.com/sgevatschnaider/machine-learning/blob/main/es/notebooks/Aprendizaje_por_Refuerzo_en_Lenguaje_Natural_(NLRL)_Haciendo_la_IA_M%C3%A1s_Comprensible.ipynb): Aplicando aprendizaje por refuerzo en tareas de lenguaje natural.
-
-### **English**
-- [Statistics and EDA](notebooks/en/Statistics_EDA.ipynb): Introduction to exploratory data analysis and statistics.
-- [Natural Language Reinforcement Learning (NLRL)](notebooks/en/Natural_Language_Reinforcement_Learning_(NLRL).ipynb): Applying reinforcement learning in natural language tasks.
 
 ---
 
