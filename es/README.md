@@ -136,6 +136,12 @@ Claro, aquí tienes la tabla únicamente con la información del notebook de Pro
 
 ---
 
+| 📄 Recurso | Enlaces |
+|---|---|
+| **Probabilidad, Estadística y Funciones Hash** <br><br> <details><summary><strong>Resumen:</strong> <em>(haz clic para expandir/colapsar)</em></summary><p>Notebook que repasa nociones clave de probabilidad y estadística y las conecta con el comportamiento de las funciones hash: uniformidad, colisiones, integridad de datos y aplicaciones en seguridad. Incluye ejemplos en Python.</p></details> | [![Ver en GitHub](https://img.shields.io/badge/Ver%20en-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/sgevatschnaider/machine-learning/blob/9f86d0721e8cd2810e9e8b579f00722460ae4c7f/notebooks/es/Probabilidad_%2C_estad%C3%ADstica__Funciones_hash.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgevatschnaider/machine-learning/blob/9f86d0721e8cd2810e9e8b579f00722460ae4c7f/notebooks/es/Probabilidad_%2C_estad%C3%ADstica__Funciones_hash.ipynb) |
+| **Entropía (Información e Incertidumbre)** <br><br> <details><summary><strong>Resumen:</strong> <em>(haz clic para expandir/colapsar)</em></summary><p>Recurso sobre entropía como medida de incertidumbre/información en distribuciones de probabilidad. Discute intuiciones, ejemplos numéricos y usos en machine learning, compresión y teoría de la información.</p></details> | [![Ver en GitHub](https://img.shields.io/badge/Ver%20HTML-en%20GitHub-orange?style=for-the-badge&logo=github)](https://github.com/sgevatschnaider/machine-learning/blob/d390eeffc176bcad4853d5dc3a1f25cb4a2d774d/recursos/entropia.html) |
+
+
 ## **Instalación y Configuración**
 Para ejecutar los ejemplos de este repositorio, asegúrate de tener instalado Python (3.7 o superior) y los paquetes necesarios listados en `requirements.txt`.
 
