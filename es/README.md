@@ -144,7 +144,7 @@ Esta sección contiene notebooks teóricos y conceptuales que establecen las bas
 | :--- | :--- |
 | **Distribuciones Discretas y Continuas** <br><br> <details><summary><strong>Resumen:</strong> <em>(haz clic para expandir/colapsar)</em></summary><p>Notebook dedicado al estudio de las distribuciones de probabilidad discretas y continuas, esenciales en estadística y machine learning. Incluye explicaciones teóricas, ejemplos prácticos, visualizaciones y casos de uso en la modelización y el análisis de datos.</p></details> | [![Ver Notebook](https://img.shields.io/badge/Ver%20Notebook-en%20GitHub-orange?style=for-the-badge&logo=github)](https://github.com/sgevatschnaider/machine-learning/blob/a33017fcb85f0a2f4656518ce0db8eab7d072890/notebooks/es/Distribuciones_discretas_y_continuas.ipynb) |
 
-### Regresión Lineal, Outliers y Random Forest e Hiperparámetros (Notebooks en Español)
+### Regresión Lineal, Outliers y Random Forest e Hiperparámetros 
 
 | 📄 Notebook | 📥 Acceso |
 | :--- | :--- |
