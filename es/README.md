@@ -167,22 +167,8 @@ Esta sección contiene notebooks teóricos y conceptuales que establecen las bas
 
 | 📄 Recurso | Enlaces |
 |---|---|
-| **Redes Neuronales** <br><br>
-<details>
-  <summary><strong>Resumen:</strong> <em>(haz clic para expandir/colapsar)</em></summary>
-  <p>Notebook teórico-práctico sobre redes neuronales artificiales: fundamentos, historia, arquitectura básica y ejemplos de forward propagation. Incluye visualizaciones interactivas y código en Python para entender la lógica detrás de la neurona artificial y su entrenamiento. Ideal para quienes inician en deep learning.</p>
-</details>
-| [![Ver en GitHub](https://img.shields.io/badge/Ver%20en-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/sgevatschnaider/machine-learning/blob/c1923c2f6f987259d75718ae709d3431aebe4e54/notebooks/es/Redes_Neuronales.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgevatschnaider/machine-learning/blob/c1923c2f6f987259d75718ae709d3431aebe4e54/notebooks/es/Redes_Neuronales.ipynb) |
-
-| **Perceptrón** <br><br>
-<details>
-  <summary><strong>Resumen:</strong> <em>(haz clic para expandir/colapsar)</em></summary>
-  <p>Notebook dedicado al perceptrón: historia, fundamentos matemáticos, y su papel como la unidad básica de las redes neuronales. Explica el algoritmo de entrenamiento paso a paso, sus limitaciones y su importancia histórica en la inteligencia artificial. Incluye ejemplos visuales y ejercicios para practicar.</p>
-</details>
-| [![Ver en GitHub](https://img.shields.io/badge/Ver%20en-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/sgevatschnaider/machine-learning/blob/efa67c6c1c4d329014c2cd0042f84a54864a47d7/notebooks/es/PERCEPTR%C3%93N.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgevatschnaider/machine-learning/blob/efa67c6c1c4d329014c2cd0042f84a54864a47d7/notebooks/es/PERCEPTR%C3%93N.ipynb) |
-
+| **Redes Neuronales** <br><details><summary><strong>Resumen:</strong> <em>(haz clic para expandir/colapsar)</em></summary><p>Notebook teórico-práctico sobre redes neuronales artificiales: fundamentos, historia, arquitectura básica y ejemplos de forward propagation. Incluye visualizaciones interactivas y código en Python para entender la lógica detrás de la neurona artificial y su entrenamiento. Ideal para quienes inician en deep learning.</p></details> | [![Ver en GitHub](https://img.shields.io/badge/Ver%20en-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/sgevatschnaider/machine-learning/blob/c1923c2f6f987259d75718ae709d3431aebe4e54/notebooks/es/Redes_Neuronales.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgevatschnaider/machine-learning/blob/c1923c2f6f987259d75718ae709d3431aebe4e54/notebooks/es/Redes_Neuronales.ipynb) |
+| **Perceptrón** <br><details><summary><strong>Resumen:</strong> <em>(haz clic para expandir/colapsar)</em></summary><p>Notebook dedicado al perceptrón: historia, fundamentos matemáticos, y su papel como la unidad básica de las redes neuronales. Explica el algoritmo de entrenamiento paso a paso, sus limitaciones y su importancia histórica en la inteligencia artificial. Incluye ejemplos visuales y ejercicios para practicar.</p></details> | [![Ver en GitHub](https://img.shields.io/badge/Ver%20en-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/sgevatschnaider/machine-learning/blob/efa67c6c1c4d329014c2cd0042f84a54864a47d7/notebooks/es/PERCEPTR%C3%93N.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgevatschnaider/machine-learning/blob/efa67c6c1c4d329014c2cd0042f84a54864a47d7/notebooks/es/PERCEPTR%C3%93N.ipynb) |
 
 
 ## **Instalación y Configuración**
